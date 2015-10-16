@@ -120,8 +120,8 @@
                 <li id="td_contact"><a id="a_contact" href="contact.aspx" class="MenuLnk">Contact Us</a>
                     <div id="optionListsContact" class="optionList2">
                         Tel: +1-732-329-8000<br />
-                        <a href="mailto:contact@technotalent.com">contact@technotalent.com</a><br />
-                        TechnoTalent Software Solutions<br />
+                        <a href="mailto:contact@technoconsulting.com">contact@technoconsulting.com</a><br />
+                        TechnoConsulting<br />
                         707 Alexander Rd., Suite #208<br />
                         Princeton, NJ 08540, USA<br />
                     </div>
@@ -152,7 +152,7 @@
     <div class="center_container">
         <div id="slider" class="nivoSlider">
             <img alt="" title="Empowering Experience, Expertise and Excellence" src="images/banners/1.jpg" />
-            <img alt="" title="TechnoTalent Staffing and Software Solutions" src="images/banners/2.jpg" />
+            <img alt="" title="TechnoConsulting Staffing" src="images/banners/2.jpg" />
             <img alt="" title="A world of experience - a universe of passion & talent" src="images/banners/3.jpg" />
             <img alt="" title="Strategy is Important but it is the innovation & execution that counts!" src="images/banners/4.jpg" />
             <img alt="" title="Trusted partner for real talent, real service & real results" src="images/banners/5.jpg" />

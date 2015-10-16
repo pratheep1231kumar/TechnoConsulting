@@ -1,8 +1,8 @@
-﻿<%@ control language="C#" autoeventwireup="true" inherits="usercontrol_loginRight, App_Web_q0r1zhh3" %>
+<%@ control language="C#" autoeventwireup="true" inherits="usercontrol_loginRight, App_Web_q0r1zhh3" %>
 <div class="LoginContentRight">
     <h2>
         &nbsp;<br />
-        Jobs at TechnoTalent</h2>
+        Jobs at TechnoConsulting</h2>
     <ul class="rightList list01">
         <li><a href="contact.aspx">Submit Resume</a></li>
         <li><a href="contact.aspx">Business Analyst</a></li>

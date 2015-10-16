@@ -7,10 +7,10 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head id="Head1" runat="server">
-    <title>TechnoTalent Software Solutions :: Submit Resume</title>
+    <title>TechnoConsulting :: Submit Resume</title>
     <link href="css/style.css" type="text/css" rel="stylesheet" />
-    <meta name="description" content="Techno Talent Software Solutions" />
-    <meta name="keywords" content="Techno Talent Software Solutions" />
+    <meta name="description" content="Techno Consulting" />
+    <meta name="keywords" content="Techno Consulting" />
     <script type="text/javascript" src="scripts/jquery-1.4.3.min.js"></script>
     <script type="text/javascript" src="scripts/js-lib.js"></script>
     <script type="text/javascript" src="scripts/jquery.jcarousel.pack.js"></script>
@@ -809,7 +809,7 @@
                                     <div class="right_tabs" style="width: 260px; margin-left: 20px;">
                                         <div class="LoginContentRight">
                                             <h2 style="width: 220px;">
-                                                Jobs at TechnoTalent</h2>
+                                                Jobs at TechnoConsulting</h2>
                                             <ul class="rightList">
                                                 <li><a href="postResume.aspx">Submit Resume</a></li>
                                                 <li><a href="postResume.aspx">Business Intelligence</a></li>

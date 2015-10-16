@@ -1,4 +1,4 @@
-﻿<%@ page language="C#" autoeventwireup="true" inherits="_default, App_Web_rg3ebjdc" %>
+<%@ page language="C#" autoeventwireup="true" inherits="_default, App_Web_rg3ebjdc" %>
 
 <%@ Register Src="usercontrol/header.ascx" TagName="header" TagPrefix="uc1" %>
 <%@ Register Src="usercontrol/menu.ascx" TagName="menu" TagPrefix="uc2" %>
@@ -6,10 +6,10 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    <title>TechnoTalent Software Solutions :: Home</title>
+    <title>TechnoConsulting :: Home</title>
     <link href="css/style.css" type="text/css" rel="stylesheet" />
-    <meta name="description" content="Techno Talent Software Solutions" />
-    <meta name="keywords" content="Techno Talent Software Solutions" />
+    <meta name="description" content="Techno Consulting" />
+    <meta name="keywords" content="TechnoConsulting" />
     <script type="text/javascript" src="scripts/jquery-1.4.3.min.js"></script>
     <script type="text/javascript" src="scripts/js-lib.js"></script>
     <script type="text/javascript" src="scripts/jquery.jcarousel.pack.js"></script>
@@ -94,7 +94,7 @@
                         <div class="clr">
                         </div>
                         <p class="mrgT10 width98per txtmission">
-                            TechnoTalent’s business technology services speed time to market & significantly
+                            TechnoConsulting's business technology services speed time to market & significantly
                             <img class="icon" src="images/icon01.png" />
                             cut &nbsp;costs by supplementing IT application development, modernizing applications.
                         </p>
@@ -107,7 +107,7 @@
                         <div class="clr">
                         </div>
                         <p class="mrgT10 width98per txtmission">
-                            TechnoTalent’s information management & business intelligence services improve the
+                            TechnoConsulting's information management & business intelligence services improve the
                             <img class="icon" src="images/icon03.png" />
                             decision-making and productivity by transforming disparate data developing.
                         </p>
@@ -121,7 +121,7 @@
                         <div class="clr">
                         </div>
                         <p class="mrgT10 width98per txtmission">
-                            TechnoTalent is an expert in delivering management consulting services and business-driven
+                            TechnoConsulting is an expert in delivering management consulting services and business-driven
                             <img class="icon" src="images/icon02.png" />
                             technology & competitive edge solutions that help our clients operate more effectively.
                         </p>
@@ -131,7 +131,7 @@
                 <div class="busFocus_lowerBG">
                 </div>
             </div>
-            <div class="client_Box">
+            <!--<div class="client_Box">
                 <div class="clientBGLeft">
                 </div>
                 <div class="clientBGMiddle">
@@ -143,7 +143,7 @@
                 </div>
                 <div class="clientBGRight">
                 </div>
-            </div>
+            </div>-->
             <!-- close client box -->
         </div>
         <!-- close center container -->

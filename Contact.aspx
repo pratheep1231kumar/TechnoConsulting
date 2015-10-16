@@ -1,4 +1,4 @@
-﻿<%@ page language="C#" autoeventwireup="true" inherits="contact, App_Web_rg3ebjdc" %>
+<%@ page language="C#" autoeventwireup="true" inherits="contact, App_Web_rg3ebjdc" %>
 
 <%@ Register Src="usercontrol/header.ascx" TagName="header" TagPrefix="uc1" %>
 <%@ Register Src="usercontrol/menu.ascx" TagName="menu" TagPrefix="uc2" %>
@@ -7,10 +7,10 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head id="Head1" runat="server">
-    <title>TechnoTalent Software Solutions :: Contact US</title>
+    <title>TechnoConsulting :: Contact US</title>
     <link href="css/style.css" type="text/css" rel="stylesheet" />
-    <meta name="description" content="Techno Talent Software Solutions" />
-    <meta name="keywords" content="Techno Talent Software Solutions" />
+    <meta name="description" content="Techno Consulting" />
+    <meta name="keywords" content="Techno Consulting" />
     <script type="text/javascript" src="scripts/jquery-1.4.3.min.js"></script>
     <script type="text/javascript" src="scripts/js-lib.js"></script>
     <script type="text/javascript" src="scripts/jquery.jcarousel.pack.js"></script>
@@ -163,7 +163,7 @@
                                     <div class="ContactUsFlt" style="float: none; width: 502px;">
                                         <div class="LoginContentRight">
                                             <h2>
-                                                Jobs at TechnoTalent</h2>
+                                                Jobs at TechnoConsulting</h2>
                                             <ul class="rightList list01">
                                                 <li><a href="postResume.aspx">Submit Resume</a></li>
                                                 <li><a href="postResume.aspx">Business Analyst</a></li>
@@ -209,20 +209,20 @@
                                             <h3>
                                                 Corporate Headquarters</h3>
                                             <h2>
-                                                TechnoTalent Software Solutions</h2>
+                                                TechnoConsulting</h2>
                                             <p>
                                                 707 Alexander Rd., Suite #208<br>
                                                 Princeton, NJ 08540, USA</p>
                                         </div>
                                         <div class="right_toll_box">
                                             <h3>
-                                                +1-732-301-3500</h3>
+                                                +1-732-329-8000</h3>
                                         </div>
                                         <div style="height: 9px">
                                         </div>
                                         <div class="right_toll_box">
                                             <h4>
-                                                <a href="mailto:contact@technotalent.com">contact@technotalent.com</a>
+                                                <a href="mailto:contact@technoconsulting.com">contact@technoconsulting.com</a>
                                             </h4>
                                         </div>
                                         <div style="height: 9px">
